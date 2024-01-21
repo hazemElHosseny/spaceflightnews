@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spaceflight News</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading…</string>
+</resources>
